@@ -1,0 +1,6 @@
+{
+  "name": "SRM Student Complaint Portal",
+  "description": "SRM Student Complaint Portal for filing, tracking, and resolving campus grievances, hostel issues, mess complaints, and academic requests with SLA tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

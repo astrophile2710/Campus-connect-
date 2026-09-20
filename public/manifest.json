@@ -1,0 +1,21 @@
+{
+  "short_name": "SRM Portal",
+  "name": "SRM Student Complaint Portal",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=192&auto=format&fit=crop&q=80",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=512&auto=format&fit=crop&q=80",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#ea580c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
